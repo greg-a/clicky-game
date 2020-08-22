@@ -2,3 +2,9 @@
     float: right;
     margin-right: 10px;
 }
+
+.jumbotron {
+    background-color: #65771E;
+    background-image: url(../../../src/bojack-header.jpeg);
+    background-size: 100%;
+}

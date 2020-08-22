@@ -4,7 +4,7 @@ import "./style.css";
 function Header(props) {
     return (
         <div className="jumbotron jumbotron-fluid">
-            <div className="container">
+            <div className="header-container">
                 <h1 className="display-4">Clicky Game</h1>
                 <p className="lead">Click on a picture to gain points, but don't click on the same image twice!</p>
             </div>
